@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.krankin.dog.OOPSubmission&apos; to &apos;Dog&apos;&#x0A;- Original project: &apos;OOP_Submission_Assignment&apos;&#x0A;- Original element: &apos;com.krankin.dog.OOPSubmission&apos;&#x0A;- Renamed element: &apos;com.krankin.dog.Dog&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OOPSubmission&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.krankin.dog{OOPSubmission.java[OOPSubmission" matchStrategy="1" name="Dog" qualified="false" references="true" similarDeclarations="false" stamp="1719505208946" textual="false" version="1.0"/>
+</session>
